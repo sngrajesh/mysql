@@ -34,7 +34,7 @@ DROP INDEX idx_name ON authors;
 TRUNCATE TABLE authors;
 
 -- Drop a table
-DROP TABLE authors;
+-- DROP TABLE authors;
 
 -- Drop a database
 -- DROP DATABASE bookstore;	
