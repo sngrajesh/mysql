@@ -1,7 +1,7 @@
 -- Basic MySQL Queries
 
 -- Create a database
-CREATE DATABASE bookstore;
+CREATE DATABASE IF NOT EXISTS bookstore;
 
 -- Use the database
 USE bookstore;

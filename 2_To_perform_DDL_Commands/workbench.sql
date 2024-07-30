@@ -37,4 +37,4 @@ TRUNCATE TABLE authors;
 DROP TABLE authors;
 
 -- Drop a database
-DROP DATABASE bookstore;	
+-- DROP DATABASE bookstore;	
