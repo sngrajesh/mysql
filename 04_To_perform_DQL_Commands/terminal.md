@@ -1,3 +1,4 @@
+```bash
 rajesh@singh:~$ sudo mysql -u root -p
 [sudo] password for rajesh: 
 Enter password: 
@@ -126,3 +127,4 @@ mysql> SELECT title, price FROM books ORDER BY price DESC LIMIT 5;
 mysql> exit
 Bye
 
+```

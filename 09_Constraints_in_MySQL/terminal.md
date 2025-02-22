@@ -1,3 +1,4 @@
+```bash
 rajesh@singh:~$ sudo mysql -u root -p
 [sudo] password for rajesh: 
 Enter password: 
@@ -93,3 +94,4 @@ Query OK, 0 rows affected (0.16 sec)
 mysql> exit
 Bye
 
+```

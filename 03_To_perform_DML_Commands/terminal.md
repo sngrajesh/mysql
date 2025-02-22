@@ -1,3 +1,4 @@
+```bash
 rajesh@singh:~$ sudo mysql -u root -p
 Enter password: 
 Welcome to the MySQL monitor.  Commands end with ; or \g.
@@ -52,3 +53,4 @@ mysql> SELECT * FROM books;
 +----+----------------------+--------+-------+------------------+
 3 rows in set (0.00 sec)
 
+```

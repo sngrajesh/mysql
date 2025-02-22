@@ -1,3 +1,4 @@
+```bash
 rajesh@singh:~$ sudo mysql -u root -p
 [sudo] password for rajesh: 
 Sorry, try again.
@@ -73,3 +74,4 @@ Query OK, 0 rows affected (0.08 sec)
 mysql> exit
 Bye
 
+```

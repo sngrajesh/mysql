@@ -1,3 +1,4 @@
+```bash
 rajesh@singh:~$ sudo mysql -u root -p
 [sudo] password for rajesh: 
 Enter password: 
@@ -380,3 +381,4 @@ mysql> SELECT a.title AS book1, b.title AS book2, a.author_id
 mysql> exit
 Bye
 
+```

@@ -1,3 +1,4 @@
+```bash
 sudo mysql
 Welcome to the MySQL monitor.  Commands end with ; or \g.
 Your MySQL connection id is 19
@@ -174,3 +175,4 @@ Query OK, 0 rows affected (0.53 sec)
 
 mysql> exit
 Bye
+```

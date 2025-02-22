@@ -1,3 +1,4 @@
+```bash
 sudo mysql -u root -p
 Enter password:
 Welcome to the MySQL monitor.  Commands end with ; or \g.
@@ -49,3 +50,4 @@ Query OK, 1 row affected (0.11 sec)
 
 mysql> exit
 Bye
+```

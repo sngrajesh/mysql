@@ -1,3 +1,4 @@
+```bash
 rajesh@singh:~$ sudo mysql -u root -p
 [sudo] password for rajesh: 
 Enter password: 
@@ -83,3 +84,4 @@ mysql> SHOW INDEX FROM bookstore_locations;
 +---------------------+------------+----------+--------------+-------------+-----------+-------------+----------+--------+------+------------+---------+---------------+---------+------------+
 2 rows in set (0.15 sec)
 
+```

@@ -1,3 +1,4 @@
+```bash
 rajesh@singh:~$ sudo mysql -u root -b
 [sudo] password for rajesh: 
 sudo: a password is required
@@ -341,3 +342,4 @@ mysql> SELECT title, price, calculate_discount(price, 10) AS discounted_price FR
 mysql> exit
 Bye
 
+```

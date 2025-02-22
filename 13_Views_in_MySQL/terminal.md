@@ -1,3 +1,4 @@
+```bash
 rajesh@singh:~$ sudo mysql -u root -p
 [sudo] password for rajesh: 
 @Sorry, try again.
@@ -61,7 +62,7 @@ mysql> SELECT * FROM book_details WHERE price > 15;
 4 rows in set (0.00 sec)
 
 mysql> 
-mysql> -- Update a view (if it's updatable)
+mysql> -- Update a view (if its updatable)
 mysql> UPDATE expensive_books SET price = price * 1.1 WHERE author = 'Aarav Patel';
 Query OK, 0 rows affected (0.00 sec)
 Rows matched: 0  Changed: 0  Warnings: 0
@@ -83,3 +84,4 @@ Query OK, 0 rows affected (0.24 sec)
 
 mysql> exit
 Bye
+```
